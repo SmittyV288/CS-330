@@ -1,1 +1,10 @@
 # CS-330
+
+- How do I approach designing software?
+  - My new design skills helped me craft a 3D scene that closely matches its real-world counterpart. I made sure to create each object in order of appearance so that the code was easy to follow. It also made it easier to find relevant sections when I needed to adjust values for each object. I also designed the pencil as a parent object so I could move all its parts together, instead of adjusting each position value separately. If I were to make more complex objects in the future, I would use the parent model approach to make manipulating objects in a scene much easier.  
+  
+- How do I approach developing programs?
+  - I looked into different ways to get textures for my objects which included finding websites with free textures, a program that helps create textures, and using my own pictures to use as basic textures. Iteration factored into my development because of the methods I used that were continuously checking for specific input values. An example of this is the programming checking if the user hits the P button to switch between perspective and ortho view. I had to create a bool to deal with the key was pressed or not to stop the scene switch from glitching in the viewport. My approach to developing code has evolved to include more functions to keep it more organized. In the future I would likely create more header files to make my programs more organized and easier to follow.
+  
+- How can computer science help me in reaching my goals?
+  - Computational graphics and visualizations have gotten me interested in learning more. Before this class I had no interest in 3D rendering but now I find myself wanting to learn more about modeling different real-life objects. I have been teaching myself how to use Blender and Maya to achieve this. The base knowledge from this class has given me the skills to understand how to edit a model and its texture coordinates. If in the future I decided to go into game development, I can use this knowledge and what else I plan to learn to show a future employer. 
